@@ -5,6 +5,8 @@ HollowGhost performs process hollowing injection into **svchost.exe** on Windows
 
 This shellcode runner is currently FUD by Microsoft Defender at scan-time, runtime, and during on-demand scanning with an active shell.
 
+**Disclaimer**: The resources provided are only for educational and research purposes. I am, in no way, responsible for any misuse of these resources. The resources shown here should only be used legally for ethical hacking.
+
 There are currently two versions of this shellcode runner.
 
 The only difference between the two:
